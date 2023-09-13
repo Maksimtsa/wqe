@@ -1,0 +1,6 @@
+a=int(input("podaj liczbe\t"))
+b=int(input("podaj druga liczbe\t"))
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
